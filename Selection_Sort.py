@@ -1,5 +1,13 @@
 '''
+
 Self-developed selection sort algorithm
+
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+
+This algorithm is the most natural sorting algorithm. Therefore, it has a "brute force" nature. It's easy to think
+of, but it has the worst performance in terms of time complexity in all kinds of sorting algorithms.
+
 '''
 
 import random
