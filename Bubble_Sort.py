@@ -3,7 +3,11 @@
 Self-developed bubble sort algorithm
 
 Time Complexity: O(n^2)
+Best Time Complexity: O(n)
 Space Complexity: O(1)
+
+One thing to notice is that the best time for this algorithm can be achieved by using a little tweak shown in this
+file to get O(n) complexity if the input is already sorted.
 
 '''
 
