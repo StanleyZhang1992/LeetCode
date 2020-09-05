@@ -1,2 +1,2 @@
-# LeetCode
-code for LeetCode problems with comments
+# PythonPractice
+Python code for some LeetCode problems with comments
